@@ -229,6 +229,7 @@ footer h1{
 
     section{
         font-size: 100%;
+        width: 90%;
     }
 
     footer{
@@ -246,30 +247,31 @@ footer h1{
     }
 
     #backimage1{
-        height: 150px;
-        
+        height: 200px;
+        background-size: cover;
+
     }
 
     #backimage2{
-        height: 150px;
-        
+        height: 200px;
+        background-size: cover;
     }
 
     #backimage3{
-        height: 150px;
+        height: 300px;
         width: 100%;
-       
+       background-size: cover;
     }
 
     #backimage4{
-        height: 150px;
+        height: 200px;
         width: 100%;
-        
+        background-size: cover;
     }
 
     #backimage5{
-        
-        height: 130px;
+        background-size: cover;
+        height: 200px;
         width: 100%;
     }
 }
